@@ -22,6 +22,7 @@ function render(view, context) {
   });
 }
 
+
 const del = require('del');
 
 const gulp = require('gulp');
